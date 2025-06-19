@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Sophomore at Netaji Subhas University of Technology
+- 🎓 Pre-final year B.Tech student at Netaji Subhas University of Technology (NSUT)
 - 😄 Pronouns: She/Her  
 - 👀 I’m interested in building cool stuff with Python, web development, and making the internet a slightly less annoying place.
 - 🌱 Currently diving into backend development — exploring Django, Flask, and the magic of databases.

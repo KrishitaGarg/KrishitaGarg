@@ -36,7 +36,6 @@
 ---
 
 ### 🤝 Let's Connect!
-- 🌐 [Portfolio](https://krishitagarg.framer.website/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishita-garg/)
 - 📫 Reach me at: **krishitagarg@gmail.com**
 

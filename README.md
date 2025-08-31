@@ -38,6 +38,7 @@
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishita-garg/)
 - 📫 Reach me at: **krishitagarg@gmail.com**
+- 🌐 Check out my [Portfolio](https://krishitagarg.vercel.app/)
 
 ---
 
